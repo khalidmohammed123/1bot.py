@@ -1,3 +1,4 @@
+nest_asyncio
 pyTelegramBotAPI
 anyio==4.6.2.post1
 appnope==0.1.3
