@@ -1,3 +1,4 @@
+pyTelegramBotAPI
 anyio==4.6.2.post1
 appnope==0.1.3
 asttokens==2.4.1
